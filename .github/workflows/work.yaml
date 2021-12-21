@@ -5,7 +5,7 @@ on:
         branches:
             - master
     schedule:
-        - cron: 20 18 * * *
+        - cron: 20 08 * * *
     watch:
         types: 
             - started
